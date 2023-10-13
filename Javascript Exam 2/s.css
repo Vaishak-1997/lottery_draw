@@ -1,0 +1,14 @@
+.lott{
+	color: rgb(216, 14, 14);
+    background: hsl(58, 62%, 54%); 
+    padding: 39px;
+    margin: 93px;
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+}
+#lot{
+	display:flex ;
+	justify-content: center;
+	margin-left: 15px;
+}
